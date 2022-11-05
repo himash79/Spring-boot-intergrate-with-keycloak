@@ -1,0 +1,15 @@
+====================================== ABOUT ======================================
+
+01) Keycloak is an open source Identity and Access Management solution targeted towards modern applications and services. Keycloak offers features         such as Single-Sign-On (SSO), Identity Brokering and Social Login, User Federation, Client Adapters, an Admin Console, and an Account Management       Console.
+02) We have compiled a list of solutions that reviewers voted as the best overall alternatives and competitors to Keycloak, including Okta, OneLogin,      Microsoft Azure Active Directory, and Auth0.
+03) Curren version 20.0.0.
+
+====================================== KEYCLOAK CONFIG ======================================
+
+01) Download KeyCloak (16.1.1 or lower version) zip from https://www.keycloak.org/downloads-archive.html
+02) Goto download file --> Bin --> execute `standalone.bat -Djboss.socket.binding.port-offset=100` in cmd.
+03) Open browser `Localhost:8180` and create user and login to keycloak.
+04) Create realm.
+05) Create client.
+06) Create user roles.
+07) Create users and passwords and roles.
